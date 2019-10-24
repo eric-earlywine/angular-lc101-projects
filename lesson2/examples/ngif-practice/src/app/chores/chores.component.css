@@ -1,7 +1,9 @@
 .chores {
     color: #ff4f33;
 }
-
+p {
+    color: black;
+}
 .doneChores {
     color: #3c79b8;
 }
